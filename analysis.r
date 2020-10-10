@@ -14,9 +14,10 @@ autoplot(gene.pca, data = cancerData, colour = 'X3.gene_classifier_subtype')
 #gata3
 #chemotherapy
 #er_status
+#pr_status
 
 #cohort
-#kmt2c
 #her2_status
 #pam50_._claudin.low_subtype
 #X3.gene_classifier_subtype
+#integrative_cluster
